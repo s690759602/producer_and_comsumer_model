@@ -1,0 +1,3 @@
+/Users/icey/Documents/c++ code/producer_and_comsumer_model/cmake-build-debug/CMakeFiles/producer_consumer.dir
+/Users/icey/Documents/c++ code/producer_and_comsumer_model/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/icey/Documents/c++ code/producer_and_comsumer_model/cmake-build-debug/CMakeFiles/rebuild_cache.dir
